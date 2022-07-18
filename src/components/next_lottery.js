@@ -29,7 +29,7 @@ const NextLottery = () => {
       >
         <p className={styles.textStyle}>
           {/* {data.description}/ */}
-          2-р үеийн тохирол 2022/07/18-нд <br /> Номин Фүүдс facebook хуудсаар
+          {/* 2-р үеийн тохирол 2022/07/18-нд <br /> Номин Фүүдс facebook хуудсаар */}
         </p>
         <div
           style={{

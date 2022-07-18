@@ -1,3 +1,13 @@
+.bgImage {
+  background-image: url("../../public/bgMain.png");
+  height: 99vh;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  margin: 0;
+  overflow: hidden;
+}
+
 .winnerBgImage {
   background-image: url("../../public/last.jpg");
   height: 99vh;
@@ -16,4 +26,35 @@
   color: "white";
   font-weight: "bold";
   text-align: "center";
+}
+.homePageContainer {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+}
+
+.startText {
+  color: black;
+  font-size: 50px;
+  font-weight: 600;
+  line-height: 0;
+  /* height: 0; */
+}
+
+.startTextContainer {
+  position: absolute;
+  padding: 16px 100px 16px 100px;
+  bottom: 300px;
+  right: 140px;
+
+  background-color: #917895;
+  border-radius: 32px;
+  cursor: pointer;
+  border: 4px solid white;
+}
+
+.voucher {
+  display: flex;
+  align-items: center;
 }

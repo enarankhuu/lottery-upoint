@@ -1,6 +1,5 @@
-import styles from "../styles/Home.module.css";
-import NextLottery from "../components/next_lottery";
+import HomePage from "../components/home_page";
 
 export default function Home() {
-  return <NextLottery />;
+  return <HomePage />;
 }
