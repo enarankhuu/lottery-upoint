@@ -29,17 +29,14 @@ const NextLottery = () => {
       >
         <p
           style={{
-            fontSize: "60px",
+            fontSize: "30px",
             color: "white",
             fontWeight: "bold",
             textAlign: "center",
           }}
         >
           {/* {data.description}/ */}
-          {
-            "2-р үеийн тохирол 2022/07/18-нд <br /> Номин Фүүдс facebook хуудсаар"
-          }
-          haha
+          2-р үеийн тохирол 2022/07/18-нд <br /> Номин Фүүдс facebook хуудсаар
         </p>
         <div
           style={{
