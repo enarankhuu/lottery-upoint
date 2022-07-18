@@ -27,14 +27,7 @@ const NextLottery = () => {
           paddingTop: 200,
         }}
       >
-        <p
-          style={{
-            fontSize: "30px",
-            color: "white",
-            fontWeight: "bold",
-            textAlign: "center",
-          }}
-        >
+        <p className={styles.textStyle}>
           {/* {data.description}/ */}
           2-р үеийн тохирол 2022/07/18-нд <br /> Номин Фүүдс facebook хуудсаар
         </p>

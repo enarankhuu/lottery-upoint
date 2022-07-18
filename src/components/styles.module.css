@@ -10,3 +10,10 @@
 
   /* overflow: hidden; */
 }
+
+.textStyle {
+  font-size: "60px";
+  color: "white";
+  font-weight: "bold";
+  text-align: "center";
+}
