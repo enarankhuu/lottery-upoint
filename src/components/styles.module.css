@@ -1,0 +1,12 @@
+.winnerBgImage {
+  background-image: url("../../public/last.jpg");
+  height: 99vh;
+  background-size: 100% 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  /* margin: 0; */
+  /* display: flex; */
+  /* flex-direction: column; */
+
+  /* overflow: hidden; */
+}
